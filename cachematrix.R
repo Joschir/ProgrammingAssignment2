@@ -19,7 +19,6 @@
 }
   
   
-## Write a short comment describing this function
 ## This function will verify if there is already an inverse of the matrix cached
 ## and return it if there is such a matrix cached.
 ## If there is none, the function will take the functions created in the function
